@@ -1,0 +1,10 @@
+ru/icl/test/dao/MessageDao.class
+ru/icl/test/servlets/DeleteMessage.class
+ru/icl/test/filters/MyFilter.class
+ru/icl/test/dao/MyBatisConnectionFactory.class
+ru/icl/test/entity/Message.class
+ru/icl/test/entity/MessageList.class
+ru/icl/test/main/Main.class
+ru/icl/test/mappers/MessageMapper.class
+ru/icl/test/servlets/WriteMessage.class
+ru/icl/test/servlets/AllMessage.class

@@ -1,0 +1,10 @@
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.7/src/main/java/ru/icl/test/filters/MyFilter.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.7/src/main/java/ru/icl/test/dao/MessageDao.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.7/src/main/java/ru/icl/test/dao/MyBatisConnectionFactory.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.7/src/main/java/ru/icl/test/servlets/AllMessage.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.7/src/main/java/ru/icl/test/servlets/DeleteMessage.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.7/src/main/java/ru/icl/test/servlets/WriteMessage.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.7/src/main/java/ru/icl/test/entity/MessageList.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.7/src/main/java/ru/icl/test/main/Main.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.7/src/main/java/ru/icl/test/entity/Message.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.7/src/main/java/ru/icl/test/mappers/MessageMapper.java
